@@ -1,6 +1,6 @@
 # challenge_Rasp
 
-https://i.pinimg.com/736x/75/61/e1/7561e13f6d672cb22279bf225f9a9ec5.jpg
+![logo da empresa](https://i.pinimg.com/736x/14/de/e6/14dee646c4b36cbbbd101d4e97612101.jpg)
 
 ## Visão geral
 Este repositório foi criado com o propósito de desenvolver uma solução para garantir a segurança e a integridade de um APK. A solução proposta é um RASP (Runtime Application Self-Protection), uma tecnologia de segurança cibernética que protege aplicativos em tempo real, detectando e bloqueando ameaças durante a execução.
