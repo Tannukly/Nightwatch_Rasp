@@ -17,7 +17,6 @@ Este é o código do nosso RASP, feito inteiramente em Java. Com ele, você pode
 
 
 
-##----------------------------------------------------------------------
 ## Overview
 This repository was created with the purpose of developing a solution to ensure the security and integrity of an APK. The proposed solution is a RASP (Runtime Application Self-Protection), a cybersecurity technology that protects applications in real time by detecting and blocking threats during execution.
 ## Here you will find the following files and folders:
