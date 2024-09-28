@@ -1,0 +1,39 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 34
+
+    defaultConfig {
+        applicationId "com.android.insecurebankv2"
+        minSdkVersion 21
+        targetSdkVersion 33
+        versionCode 2
+        versionName "2.0"
+        useLibrary 'org.apache.http.legacy'
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    // Dependências de terceiros
+    implementation 'com.google.android.gms:play-services:12.0.1' // Atualizado para uma versão mais recente
+    implementation 'com.github.marcohc:Toasteroid:2.1.4'
+
+    // Dependências de Teste
+    testImplementation 'junit:junit:4.13.2' // Para testes unitários
+    androidTestImplementation 'androidx.test.ext:junit:1.1.3' // AndroidJUnit para testes de instrumentação
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0' // Para testes de UI
+}
+
+repositories {
+    maven {
+        url "https://jitpack.io"
+    }
+}
