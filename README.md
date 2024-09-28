@@ -7,7 +7,6 @@ Este repositório foi criado com o propósito de desenvolver uma solução para 
 * insecureBankv2 - Rasp.apk
 * rasp.java
 *
-
 ## Observação dos arquivos e pastas
 ### Rasp InsecureBankv2:
 Aqui você vai encontrar a aplicação InsecureBankv2 com a solução RASP já implementada. Esta pasta serve para que você faça o download com o objetivo de estudar, modificar ou melhorar o RASP, utilizando o Android Studio para compilar a pasta após realizar suas modificações.
@@ -20,3 +19,8 @@ This repository was created with the purpose of developing a solution to ensure 
 * insecureBankv2 - Rasp.apk
 * rasp.java
 *
+## Notes on the files and folders:
+### Rasp InsecureBankv2:
+Here you will find the InsecureBankv2 application with the RASP solution already implemented. This folder is intended for you to download it for the purpose of studying, modifying, or improving the RASP, using Android Studio to compile the folder after making your modifications.
+
+
