@@ -7,7 +7,7 @@ Este repositório foi criado com o propósito de desenvolver uma solução para 
 
 ## Observações 
 Nosso RASP foi criado com o objetivo de proteger o aplicativo InsecureBankv2, desenvolvido por Dinesh Shetty. Você pode fazer o download da pasta do aplicativo no seguinte link do GitHub: https://github.com/dineshshetty/Android-InsecureBankv2/
-### Ferramentas do RASP:Ferramentas do RASP:
+### Ferramentas do RASP:
 
 #### 1. Detecção de Root:
 O código utiliza várias abordagens para detectar se o dispositivo no qual o aplicativo está sendo executado foi "rootado" (ganhou acesso a permissões administrativas):
