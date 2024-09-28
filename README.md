@@ -1,7 +1,10 @@
 # challenge_Rasp
 
+https://i.pinimg.com/736x/75/61/e1/7561e13f6d672cb22279bf225f9a9ec5.jpg
+
 ## Visão geral
 Este repositório foi criado com o propósito de desenvolver uma solução para garantir a segurança e a integridade de um APK. A solução proposta é um RASP (Runtime Application Self-Protection), uma tecnologia de segurança cibernética que protege aplicativos em tempo real, detectando e bloqueando ameaças durante a execução.
+
 ## Observações 
 Nosso RASP foi criado com o objetivo de proteger o aplicativo InsecureBankv2, desenvolvido por Dinesh Shetty. Você pode fazer o download da pasta do aplicativo no seguinte link do GitHub: https://github.com/dineshshetty/Android-InsecureBankv2/
 
