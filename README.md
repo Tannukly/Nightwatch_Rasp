@@ -41,10 +41,10 @@ O código utiliza várias abordagens para detectar se o dispositivo no qual o ap
 ### Rasp InsecureBankv2:
 Aqui você vai encontrar a aplicação InsecureBankv2 com a solução RASP já implementada. Esta pasta serve para que você faça o download com o objetivo de estudar, modificar ou melhorar o RASP, utilizando o Android Studio para compilar a pasta após realizar suas modificações.
 
-### insecureBankv2 - Rasp.apk:
+### InsecureBankv2 - Rasp.apk:
 Este é o APK do InsecureBankv2 com o nosso RASP já implementado, para que você possa verificar as funcionalidades das ferramentas do RASP ou testar vulnerabilidades que nossa solução ainda possa não mitigar.
 
-### rasp.java:
+### Rasp.java:
 Este é o código do nosso RASP, feito inteiramente em Java. Com ele, você pode estudar e analisar como todas as ferramentas de detecção foram criadas. Assim, ele servirá como um código base para você começar a aprimorar.
 
 
