@@ -7,8 +7,8 @@ Este repositório foi criado com o propósito de desenvolver uma solução para 
 
 ## Observações 
 Nosso RASP foi criado com o objetivo de proteger o aplicativo InsecureBankv2, desenvolvido por Dinesh Shetty. Você pode fazer o download da pasta do aplicativo no seguinte link do GitHub: https://github.com/dineshshetty/Android-InsecureBankv2/
-### 🛠️Ferramentas do RASP:
 
+### 🛠️Ferramentas do RASP:
 #### 1. Detecção de Root:
 O código utiliza várias abordagens para detectar se o dispositivo no qual o aplicativo está sendo executado foi "rootado" (ganhou acesso a permissões administrativas):
 
@@ -34,7 +34,7 @@ O código utiliza várias abordagens para detectar se o dispositivo no qual o ap
 * Rasp InsecureBankv2
 * insecureBankv2 - Rasp.apk
 * rasp.java
-*
+* Manual_para_compilar.pdf
 
 ## 📁Observação dos arquivos e pastas
 
@@ -47,13 +47,15 @@ Este é o APK do InsecureBankv2 com o nosso RASP já implementado, para que voc�
 ### Rasp.java:
 Este é o código do nosso RASP, feito inteiramente em Java. Com ele, você pode estudar e analisar como todas as ferramentas de detecção foram criadas. Assim, ele servirá como um código base para você começar a aprimorar.
 
-
+### Manual_para_compilar.pdf:
+O arquivo Manual_para_compilar.pdf é para você que não sabe compilar e precisa de orientações para utilizar nosso RASP ou se você pretende melhorá-lo.
 
 ## 🇺🇸 Overview
 This repository was created with the purpose of developing a solution to ensure the security and integrity of an APK. The proposed solution is a RASP (Runtime Application Self-Protection), a cybersecurity technology that protects applications in real time by detecting and blocking threats during execution.
 
 ## Notes:
 Our RASP was created with the purpose of protecting the InsecureBankv2 application, developed by Dinesh Shetty. You can download the application folder from the following GitHub link: https://github.com/dineshshetty/Android-InsecureBankv2/
+
 ### 🛠️RASP Tools:
 #### 1.Root Detection:
 The code uses several approaches to detect if the device on which the application is running has been rooted (gained administrative permissions):
@@ -79,7 +81,7 @@ The code uses several approaches to detect if the device on which the applicatio
 * Rasp InsecureBankv2
 * insecureBankv2 - Rasp.apk
 * rasp.java
-*
+* Manual_para_compilar.pdf
 
 ## 📁Notes on the files and folders:
 
@@ -90,5 +92,7 @@ Here you will find the InsecureBankv2 application with the RASP solution already
 This is the APK of InsecureBankv2 with our RASP already implemented, allowing you to check the functionalities of the RASP tools or test for vulnerabilities that our solution might not yet mitigate.
 
 ### rasp.java: 
-
 This is the code for our RASP, written entirely in Java. With it, you can study and analyze how all the detection tools were created. It will serve as a base code for you to start improving.
+
+### Manual_para_compilar.pdf:
+The file Manual_para_compilar.pdf is for those who do not know how to compile and need guidance to use our RASP or if you intend to improve it.
